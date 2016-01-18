@@ -1,6 +1,6 @@
 name: Entheo Music
 favicon: null
-layout_spectrum: 0.74875
+layout_spectrum: 0.24374
 typography_spectrum: 0.60999
 title: ENTHEO MUSIC
 cta:
@@ -23,7 +23,7 @@ color:
     - '#cebc91'
     - '#a97746'
   brandStrength: 0
-  lightness: 0.625
-  saturation: 0.3125
+  lightness: 0.3125
+  saturation: 0.125
   rhythmicContrast: 0
 purpose: []
